@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there, I'm Ilayda 👋
 
-<!--
-**ilaydazer/ilaydazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on data science.
+- 🌱 I’m currently learning data science with python.
+- 🤔 I’m looking for help with numpy and pandas libraries. 
+- 📫 How to reach me: ilaydazer06@gmail.com
+- ⚡ Fun fact: I'm jobless.
+- 😄 Pronouns: She
 
-Here are some ideas to get you started:
+Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ilaydazer/ilaydazer) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ilaydazer/)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
